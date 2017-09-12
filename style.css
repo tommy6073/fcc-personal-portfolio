@@ -1,0 +1,31 @@
+h2 {
+  color: teal;
+}
+
+#project-tiles {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.project-tile {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 40px 30px;
+}
+
+.project-image {
+  width: 280px;
+  height: 180px;
+  border: solid 2px lightblue;
+}
+
+.project-title {
+  padding: 4px;
+  color: teal;
+  border: solid 2px lightblue;
+  border-top: none;
+}
+
