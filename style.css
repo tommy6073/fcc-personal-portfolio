@@ -1,3 +1,12 @@
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
 h2 {
   color: teal;
 }
