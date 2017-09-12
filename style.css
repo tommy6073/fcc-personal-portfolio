@@ -36,8 +36,24 @@ a {
 }
 
 #welcome-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 50px;
   height: 100vh;
+  background: #e0ebe8
+}
+
+#welcome {
+  margin-bottom: 80px;
+}
+
+#welcome h1 {
+  margin: 4px auto;
+}
+
+#position {
+  color: green;
 }
 
 h2 {
