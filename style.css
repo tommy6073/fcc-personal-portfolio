@@ -91,6 +91,20 @@ a {
   border-top: none;
 }
 
+#contact {
+  height: 800px;
+  background-color: #c8f7c5;
+}
+
+#lets-work {
+  padding-top: 140px;
+  padding-bottom: 100px;
+}
+
+#lets-work h1 {
+  margin: 4px auto;
+}
+
 @media (max-width: 100px) {
   body {
 
