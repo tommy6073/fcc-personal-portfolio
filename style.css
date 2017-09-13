@@ -105,6 +105,26 @@ a {
   margin: 4px auto;
 }
 
+#profiles {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+#profiles a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e0ebe8;
+  color: teal;
+  margin: 40px 30px;
+  width: 100px;
+  height: 100px;
+  border: solid 2px #90c695;
+  border-radius: 50%;
+}
+
 @media (max-width: 100px) {
   body {
 
