@@ -134,6 +134,11 @@ footer p {
   color: white;
 }
 
+footer a {
+  color: white;
+  text-decoration: underline;
+}
+
 @media (max-width: 100px) {
   body {
 
