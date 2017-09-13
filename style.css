@@ -125,6 +125,15 @@ a {
   border-radius: 50%;
 }
 
+footer {
+  padding: 10px;
+  background-color: #22313f;
+}
+
+footer p {
+  color: white;
+}
+
 @media (max-width: 100px) {
   body {
 
